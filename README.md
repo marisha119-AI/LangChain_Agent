@@ -21,7 +21,7 @@ use tools, and answer questions interactively.
 ## 🚀 How to Run
 
 ### 1. Clone the repo
-git clone https://github.com/yourusername/my-agent.git
+git clone https://github.com/marisha119-AI/LangChain_Agent
 cd my-agent
 
 ### 2. Install dependencies
@@ -32,7 +32,7 @@ Create a `.env` file:
 GROQ_API_KEY=your_groq_api_key
 LANGCHAIN_API_KEY=your_langsmith_api_key
 LANGCHAIN_TRACING_V2=true
-LANGCHAIN_PROJECT=my-first-agent
+LANGCHAIN_PROJECT=my-agent
 
 ### 4. Run the agent
 python agent.py
